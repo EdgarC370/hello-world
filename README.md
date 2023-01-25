@@ -1,4 +1,4 @@
-Hello to anyone reading this!dbpo d
+Hello to anyone reading this!
 
 I'm Edgar, currently a Cloud Support Engineer I at AWS, the first role I accepted after graduating from Florida Atlantic University in 2021 with a major in Computer Science. At AWS my role is within the Database domain, primarily focused on supporting customers' RDS PostgreSQL, RDS Oracle, and Aurora PostgreSQL. I additionally am responsible to support DocDB with MongoDB compatibility and Timestream. 
 
